@@ -1,0 +1,8 @@
+[package]
+name = "sui-by-example"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "framework/testnet" }
+
+[addresses]
+move_by_example = "0x0"
