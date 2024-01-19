@@ -1,4 +1,4 @@
-Examples taken from [here](git remote add origin https://github.com/0xmovses/sui-examples.git)
+Examples taken from [here](https://github.com/0xmovses/sui-examples.git)
 
 Welcome to the companion book to docs.sui.io. There we describe the Sui Move variant of the Move programming language and explain how to use it to write smart contracts and programming with objects.
 
