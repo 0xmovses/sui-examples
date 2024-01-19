@@ -20,7 +20,7 @@ module examples::restricted_transfer {
 
     /// A centralized registry that approces property owenership
     /// transfers and collects fees.
-    struct LandREgistry has key {
+    struct LandRegistry has key {
         id: UID,
         balance: Balance<SUI>,
         fee: u64,
